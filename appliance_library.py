@@ -1074,7 +1074,207 @@ class PRODUCT_OWP_7225(appliance_classes.Object_Appliance):
         
 #--------PRODUCT: CORBELS BRACKETS
 
+class PRODUCT_OWP_8004(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8004"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8004.blend")        
+
+class PRODUCT_OWP_8008(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8008"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8008.blend")        
+
+class PRODUCT_OWP_8013(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8013"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8013.blend")        
+
+class PRODUCT_OWP_8018(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8018"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8018.blend")        
+
+class PRODUCT_OWP_8019(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8019"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8019.blend")        
+
+class PRODUCT_OWP_8023(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8023"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8023.blend")        
+
+class PRODUCT_OWP_8028(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8028"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8028.blend")        
+
+class PRODUCT_OWP_8059(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8059"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8059.blend")        
+
+class PRODUCT_OWP_8070(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8070"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8070.blend")        
+
+class PRODUCT_OWP_8083(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8083"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8083.blend")        
+
+class PRODUCT_OWP_8088(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8088"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8088.blend")        
+
+class PRODUCT_OWP_8223(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8223"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8223.blend")        
+
+class PRODUCT_OWP_8228(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8228"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8228.blend")        
+
+class PRODUCT_OWP_8320(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8320"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8320.blend")        
+
+class PRODUCT_OWP_8330(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8330"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8330.blend")        
+
+class PRODUCT_OWP_8700(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8700"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8700.blend")        
+
+class PRODUCT_OWP_8900(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8900"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8900.blend")        
+
+class PRODUCT_OWP_8950(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 8950"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 8950.blend")        
+
+class PRODUCT_OWP_80041(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80041"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80041.blend")        
+
+class PRODUCT_OWP_80181(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80181"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80181.blend")        
+
+class PRODUCT_OWP_80191(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80191"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80191.blend")        
+
+class PRODUCT_OWP_80281(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80281"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80281.blend")        
+
+class PRODUCT_OWP_80591(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80591"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80591.blend")        
+
+class PRODUCT_OWP_80881(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 80881"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 80881.blend")        
+
+class PRODUCT_OWP_82281(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Corbels-Brackets"
+        self.assembly_name = "OWP 82281"
+        self.appliance_path = os.path.join(CORBELS_BRACKETS_PATH,"OWP 82281.blend")
         
+#-------PRODUCT: KITCHEN ISLAND LEGS
+
+class PRODUCT_OWP_82281(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Cabinet Moldings"
+        self.assembly_name = "OWP 82281"
+        self.appliance_path = os.path.join(CABINET_MOLDING_PATH,"OWP 82281.blend")               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
