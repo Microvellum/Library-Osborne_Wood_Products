@@ -1251,72 +1251,889 @@ class PRODUCT_OWP_82281(appliance_classes.Object_Appliance):
         
 #-------PRODUCT: KITCHEN ISLAND LEGS
 
-class PRODUCT_OWP_82281(appliance_classes.Object_Appliance):
+class PRODUCT_OWP_1408(appliance_classes.Object_Appliance):
     
     def __init__(self):
-        self.category_name = "Cabinet Moldings"
-        self.assembly_name = "OWP 82281"
-        self.appliance_path = os.path.join(CABINET_MOLDING_PATH,"OWP 82281.blend")               
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1408"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1408.blend")               
 
+class PRODUCT_OWP_1409(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1409"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1409.blend")               
 
+class PRODUCT_OWP_1412(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1412"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1412.blend")               
 
+class PRODUCT_OWP_1416(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1416"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1416.blend")               
 
+class PRODUCT_OWP_1419(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1419"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1419.blend")               
 
+class PRODUCT_OWP_1422(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1422"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1422.blend")               
 
+class PRODUCT_OWP_1424(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1424"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1424.blend")               
 
+class PRODUCT_OWP_1432(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1432"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1432.blend")               
 
+class PRODUCT_OWP_1434(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1434"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1434.blend")               
 
+class PRODUCT_OWP_1435(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1435"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1435.blend")               
 
+class PRODUCT_OWP_1438(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1438"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1438.blend")               
 
+class PRODUCT_OWP_1440(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1440"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1440.blend")               
 
+class PRODUCT_OWP_1444(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1444"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1444.blend")               
 
+class PRODUCT_OWP_1445(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1445"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1445.blend")               
 
+class PRODUCT_OWP_1446(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1446"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1446.blend")               
 
+class PRODUCT_OWP_1447(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1447"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1447.blend")               
 
+class PRODUCT_OWP_1450(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1450"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1450.blend")               
 
+class PRODUCT_OWP_1451(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1451"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1451.blend")               
 
+class PRODUCT_OWP_1452(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1452"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1452.blend")               
 
+class PRODUCT_OWP_1453(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1453"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1453.blend")               
 
+class PRODUCT_OWP_1454(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1424"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1424.blend")               
 
+class PRODUCT_OWP_1455(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1455"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1455.blend")               
 
+class PRODUCT_OWP_1456(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1456"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1456.blend")               
 
+class PRODUCT_OWP_1457(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1457"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1457.blend")               
 
+class PRODUCT_OWP_1458(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1458"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1458.blend")               
 
+class PRODUCT_OWP_1459(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1459"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1459.blend")               
 
+class PRODUCT_OWP_1461(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1461"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1461.blend")               
 
+class PRODUCT_OWP_1462(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1462"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1462.blend")               
 
+class PRODUCT_OWP_1463(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1463"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1463.blend")               
 
+class PRODUCT_OWP_1466(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1466"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1466.blend")               
 
+class PRODUCT_OWP_1467(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1467"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1467.blend")               
 
+class PRODUCT_OWP_1468(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1468"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1468.blend")               
 
+class PRODUCT_OWP_1470(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1470"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1470.blend")               
 
+class PRODUCT_OWP_1471(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1471"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1471.blend")               
 
+class PRODUCT_OWP_1473(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1473"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1473.blend")               
 
+class PRODUCT_OWP_1475(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1475"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1475.blend")               
 
+class PRODUCT_OWP_1476(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1476"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1476.blend")               
 
+class PRODUCT_OWP_1480(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1480"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1480.blend")               
 
+class PRODUCT_OWP_1482(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1482"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1482.blend")               
 
+class PRODUCT_OWP_1483(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1483"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1483.blend")               
 
+class PRODUCT_OWP_1484(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1484"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1484.blend")               
 
+class PRODUCT_OWP_1485(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1485"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1485.blend")               
 
+class PRODUCT_OWP_1486(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1486"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1486.blend")               
 
+class PRODUCT_OWP_1487(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1487"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1487.blend")               
 
+class PRODUCT_OWP_1491(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1491"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1491.blend")               
 
+class PRODUCT_OWP_1492(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1492"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1492.blend")               
 
+class PRODUCT_OWP_1493(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1493"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1493.blend")               
 
+class PRODUCT_OWP_1495(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1495"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1495.blend")               
 
+class PRODUCT_OWP_1496(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1496"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1496.blend")               
 
+class PRODUCT_OWP_1497(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1497"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1497.blend")               
 
+class PRODUCT_OWP_1498(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1498"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1498.blend")               
 
+class PRODUCT_OWP_1508(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1508"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1508.blend")               
 
+class PRODUCT_OWP_1509(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1509"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1509.blend")               
 
+class PRODUCT_OWP_1550(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1550"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1550.blend")               
 
+class PRODUCT_OWP_1551(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1551"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1551.blend")               
 
+class PRODUCT_OWP_1555(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1555"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1555.blend")               
 
+class PRODUCT_OWP_1556(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1556"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1556.blend")               
 
+class PRODUCT_OWP_1559(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1559"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1559.blend")               
 
+class PRODUCT_OWP_1561(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1561"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1561.blend")               
 
+class PRODUCT_OWP_1562(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1562"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1562.blend")               
 
+class PRODUCT_OWP_1563(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1563"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1563.blend")               
 
+class PRODUCT_OWP_1580(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1580"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1580.blend")               
+
+class PRODUCT_OWP_1582(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1582"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1582.blend")               
+
+class PRODUCT_OWP_1593(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1593"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1593.blend")               
+
+class PRODUCT_OWP_1708(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1708"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1708.blend")               
+
+class PRODUCT_OWP_1709(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1709"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1709.blend")               
+
+class PRODUCT_OWP_1716(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1716"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1716.blend")               
+
+class PRODUCT_OWP_1719(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1719"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1719.blend")               
                 
+class PRODUCT_OWP_1722(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1722"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1722.blend")               
+ 
+class PRODUCT_OWP_1724(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1724"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1724.blend")               
+ 
+class PRODUCT_OWP_1732(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1732"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1732.blend")               
+ 
+class PRODUCT_OWP_1734(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1734"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1734.blend")               
+ 
+class PRODUCT_OWP_1740(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1740"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1740.blend")               
+ 
+class PRODUCT_OWP_1744(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1744"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1744.blend")               
+ 
+class PRODUCT_OWP_1745(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1745"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1745.blend")               
+ 
+class PRODUCT_OWP_1746(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1746"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1746.blend")               
+ 
+class PRODUCT_OWP_1747(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1747"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1747.blend")               
+ 
+class PRODUCT_OWP_1749(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1749"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1749.blend")               
+ 
+class PRODUCT_OWP_1750(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1750"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1750.blend")               
+ 
+class PRODUCT_OWP_1751(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1751"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1751.blend")               
+ 
+class PRODUCT_OWP_1752(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1424"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1424.blend")               
+ 
+class PRODUCT_OWP_1755(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1755"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1755.blend")               
+ 
+class PRODUCT_OWP_1756(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1756"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1756.blend")               
+ 
+class PRODUCT_OWP_1757(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1757"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1757.blend")               
+ 
+class PRODUCT_OWP_1758(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1758"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1758.blend")               
+ 
+class PRODUCT_OWP_1759(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1759"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1759.blend")               
+ 
+class PRODUCT_OWP_1761(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1761"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1761.blend")               
+ 
+class PRODUCT_OWP_1762(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1762"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1762.blend")               
+ 
+class PRODUCT_OWP_1763(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1763"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1763.blend")               
+ 
+class PRODUCT_OWP_1766(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1766"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1766.blend")               
+ 
+class PRODUCT_OWP_1767(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1767"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1767.blend")               
+ 
+class PRODUCT_OWP_1768(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1768"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1768.blend")               
+ 
+class PRODUCT_OWP_1770(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1770"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1770.blend")               
+ 
+class PRODUCT_OWP_1771(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legss"
+        self.assembly_name = "OWP 1771"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1771.blend")               
+ 
+class PRODUCT_OWP_1773(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1773"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1773.blend")               
+ 
+class PRODUCT_OWP_1775(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1775"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1775.blend")               
+ 
+class PRODUCT_OWP_1776(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1776"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1776.blend")               
+ 
+class PRODUCT_OWP_1780(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1780"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1780.blend")               
+ 
+class PRODUCT_OWP_1782(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1782"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1782.blend")               
+ 
+class PRODUCT_OWP_1783(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1783"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1783.blend")               
+ 
+class PRODUCT_OWP_1784(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1784"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1784.blend")               
+ 
+class PRODUCT_OWP_1785(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1785"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1785.blend")               
+ 
+class PRODUCT_OWP_1786(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1786"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1786.blend")               
+ 
+class PRODUCT_OWP_1787(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1787"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1787.blend")               
+ 
+class PRODUCT_OWP_1791(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1791"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1791.blend")               
+ 
+class PRODUCT_OWP_1792(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1792"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1792.blend")               
+ 
+class PRODUCT_OWP_1793(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1793"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1793.blend")               
+ 
+class PRODUCT_OWP_1795(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1795"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1795.blend")               
+ 
+class PRODUCT_OWP_1796(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1796"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1796.blend")               
+ 
+class PRODUCT_OWP_1797(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1797"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1797.blend")               
+ 
+class PRODUCT_OWP_1798(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1798"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1798.blend")               
+ 
+class PRODUCT_OWP_1808(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1808"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1808.blend")               
+ 
+class PRODUCT_OWP_1850(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1850"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1850.blend")               
+ 
+class PRODUCT_OWP_1871(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Kitchen Island Legs"
+        self.assembly_name = "OWP 1871"
+        self.appliance_path = os.path.join(KITCHEN_ISLAND_LEGS_PATH,"OWP 1871.blend")               
+ 
+#------PRODUCT: PEDESTALS-MORE
+
+class PRODUCT_OWP_1412(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 1412"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 1412.blend")               
+ 
+class PRODUCT_OWP_1420(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 1420"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 1420.blend")               
+  
+class PRODUCT_OWP_1430(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 1430"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 1430.blend")               
+  
+class PRODUCT_OWP_1520(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 1520"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 1520.blend")               
+ 
+class PRODUCT_OWP_2000(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 2000"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 2000.blend")               
+  
+class PRODUCT_OWP_2001(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 2001"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 2001.blend")               
+  
+class PRODUCT_OWP_2500(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 2500"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 2500.blend")               
+  
+class PRODUCT_OWP_3003(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 3003"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 3003.blend")               
+  
+class PRODUCT_OWP_3005(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 3005"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 3005.blend")               
+  
+class PRODUCT_OWP_3006(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 3006"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 3006.blend")               
+  
+class PRODUCT_OWP_3007(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 3007"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 3007.blend")               
+  
+class PRODUCT_OWP_7120(appliance_classes.Object_Appliance):
+    
+    def __init__(self):
+        self.category_name = "Pedestals - More"
+        self.assembly_name = "OWP 7120"
+        self.appliance_path = os.path.join(PEDESTALS_MORE_PATH,"OWP 7120.blend")               
+  
+
         
