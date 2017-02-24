@@ -61,3 +61,4 @@ win64-vc/2.76/scripts/startup/fluid_ui/space_fluid_node.py
 win64-vc/2.76/scripts/startup/main_fd/library_builder_nodes.py
 
 *.pyc
+*.pyc
